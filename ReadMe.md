@@ -5,6 +5,7 @@
 <br clear="both">
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3o0dGZoeDBrNmMyZXZvdDdhMWQ0OGxqYjdtaHpocDEzZHo1MmllayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
+<br>
 
 # 💫 About Me:
 Front-end developer with strong foundational skills in HTML5, CSS3, JavaScript (ES6+), and React.js. <br>Currently pursuing a BSc in Software Engineering at Sindh Madressatul Islam University. <br>Skilled in building responsive, accessible, and user-centric web applications. <br>Gaining hands-on experience with full-stack development using Next.js, Node.js, PHP, SQL and MongoDB. <br>Passionate about intuitive design and solving real-world problems through clean, scalable code
