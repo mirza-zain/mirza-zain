@@ -1,9 +1,5 @@
 <h1 align="center">Hey 👋 I'm Mirza Zain</h1>
 
-###
-
-<br clear="both">
-
 # 💫 About Me:
 Front-end developer with strong foundational skills in HTML5, CSS3, JavaScript (ES6+), and React.js. <br>Currently pursuing a BSc in Software Engineering at Sindh Madressatul Islam University. <br>Skilled in building responsive, accessible, and user-centric web applications. <br>Gaining hands-on experience with full-stack development using Next.js, Node.js, PHP, SQL and MongoDB. <br>Passionate about intuitive design and solving real-world problems through clean, scalable code
 
