@@ -1,4 +1,5 @@
 <h1 align="center">Hey 👋 I'm Mirza Zain</h1>
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fmirza-zain&style=flat)](https://rankistan.dev)
 
 # 💫 About Me:
 Front-end developer with strong foundational skills in HTML5, CSS3, JavaScript (ES6+), and React.js. <br>Currently pursuing a BSc in Software Engineering at Sindh Madressatul Islam University. <br>Skilled in building responsive, accessible, and user-centric web applications. <br>Gaining hands-on experience with full-stack development using Next.js, Node.js, PHP, SQL and MongoDB. <br>Passionate about intuitive design and solving real-world problems through clean, scalable code
