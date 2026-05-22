@@ -106,7 +106,6 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/mirza-zain269/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Mirza Zain's LinkedIn"/></a>&nbsp;&nbsp;
   <a href="mailto:mirzazain269@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Mirza Zain's Email"/></a>&nbsp;&nbsp;
   <a href="https://mirzazain.vercel.app/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>&nbsp;&nbsp;
-  <a href="https://wa.me/5073150757174"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
 <p align="center">
