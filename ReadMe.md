@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🚀 Wrapping up my degree by building Asaan Taqreeb, a full-stack event management marketplace.
+- 🚀 Building Asaan Taqreeb, a full-stack event management marketplace.
 - 💻 Crafting premium, minimalist web experiences using the MERN stack, Next.js, and Tailwind.
 - 👾 Exploring game mechanics—recently built a 2D Unity game complete with custom scoring and particle effects.
 - 🤖 Experimenting with Agentic AI, Gemini models.
