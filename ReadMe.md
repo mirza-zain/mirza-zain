@@ -15,7 +15,7 @@
 - 🚀 Wrapping up my degree by building Asaan Taqreeb, a full-stack event management marketplace.
 - 💻 Crafting premium, minimalist web experiences using the MERN stack, Next.js, and Tailwind.
 - 👾 Exploring game mechanics—recently built a 2D Unity game complete with custom scoring and particle effects.
-- 🤖 Experimenting with Agentic AI, Gemini models, and optimizing my EndeavourOS terminal workflow.
+- 🤖 Experimenting with Agentic AI, Gemini models.
 
 
 ## 🧠 My Focus Areas
